@@ -8,7 +8,3 @@ Over the course of 10 weeks, we are tasked with designing and developing a small
 
 The work is being done as a Lab Directed Research and Development initiative under the direction of Dr. Steve Xiao in the Research and Development Engineering group at the Savannah River National Laboratory.
 
-
-
-### Notes
-Describe any challenges encountered while building the app.
